@@ -22,7 +22,7 @@ if (parent === window) {
 </head>
 <body><div class="container">
     <h1>FormSubmit Demo</h1>
-    <form target="_blank" action="https://formsubmit.co/your@email.com" method="POST">
+    <form target="_blank" action="https://formsubmit.co/chaubeyvijayshanker3@gmail.com" method="POST">
         <div class="form-group">
             <div class="form-row">
                 <div class="col">
